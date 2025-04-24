@@ -2,6 +2,7 @@
 
 #include "filters.h"
 #include <stdio.h>
+#include <string.h>
 
 int main() {
     load_words("ressource/bdd_wordle_clean.txt");
